@@ -11,10 +11,7 @@
 ## 🚀 O'rnatish va ishga tushirish
 
 1. Repozitoriyani yuklab oling:
-   ```bash
-   git clone [https://github.com/xorazmi/anonymity_analyzer_pro.git](https://github.com/xorazmi/anonymity_analyzer_pro.git) 
-   pip install -r requirements.txt
-   Dasturni ishga tushiring:
-   ```bash
-   python main.py
-   ```
+```bash
+git clone https://github.com/xorazmi/anonymity_analyzer_pro.git
+pip install -r requirements.txt
+python main.py
